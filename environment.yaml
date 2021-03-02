@@ -1,0 +1,12 @@
+name: deconvolution
+channels:
+  - conda-forge
+  - bioconda
+  - r
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyterlab=2.2.8
+  - bioconda:r-immunedeconv=2.0.2
+  - r-irkernel=1.1.1
+prefix: /data/miniconda3/envs/deconvolution

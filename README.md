@@ -1,2 +1,2 @@
 # deconvolution
-Experiments with deconvolution from buld RNA-Seq
+Experiments with deconvolution from build RNA-Seq
